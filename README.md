@@ -25,7 +25,7 @@ An Android task management application developed using **Kotlin, Jetpack Compose
 
 ### Application Interface
 
-![To-Do App](todo-app.png)
+
 
 ### Firebase Realtime Database
 
